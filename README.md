@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and AI
 - 🌱 I’m currently learning AI,python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : @huseyjnuzun on instagram
 
 <!---
 UzunHus/UzunHus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
