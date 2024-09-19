@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UzunHus
 - 👀 I’m interested in software and AI
 - 🌱 I’m currently learning AI,python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : uzn.huseyin1@gmail.com
 
 <!---
